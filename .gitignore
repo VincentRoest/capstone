@@ -2,4 +2,6 @@
 .ipynb_checkpoints/
 Single_layer.ipynb
 Untitled1.ipynb
+*.png
+models/
 tensor_mnist.ipynb
