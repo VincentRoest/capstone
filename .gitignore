@@ -3,5 +3,6 @@
 Single_layer.ipynb
 Untitled1.ipynb
 *.png
+load_save/
 models/
 tensor_mnist.ipynb
